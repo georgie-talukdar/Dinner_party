@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dinner-party-25-05",
+  "private_key_id": "298bf5be561f2828cfba235fee6f19ef1a280b1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOVur+RW+VIxtH\n6t1iHkMgKxc0OXEiuPxq7S1ZvoVYDIS7m6iqeD7pOuKtSL22iCb9jj7bs6KIJ7rk\nExcueuSvr34OkWtR1FCa8bm8NqKc3QEyYXHSEOeNO0MJer8CUW3GrHei2F5GFChb\nFaXfVBCXL0I5E/ww1uRDCh903stJL02KZjPH0jxoq5WrVU4LjGu/mMgr6kbPRb77\nQrug3FZncAa1Tu5I7NjP3FM/gU1QQ4ExzkEjzsI9L3QJJX+3Et88alvgxRTbX56C\nMfNbw5yUlhmDWgMN4Q6ixW2DykwfTA4BBDYMqpN+49dHblLhLUIiviEiWeWgDILz\nCFzzYPdpAgMBAAECggEAARK+6WhpTIpolIrOULm1UewjdGI1mk+BwZke9qPo6+Sx\nxouIWK2kLyCfJ/VURkgmQsScA1bHekORo2jNgrCBMsA8DL2ZJC1xZ2LpO0dB+ISm\nQlGzLrtnhuqnXjvhFTUg9+ry+tn7AIyPiqy9xn/4j56/bo5R7huaB5a8g+Y6QrTN\nwwQrmSgMh9584L+JZNRwmsD4xOYz6D0npYC7mNnvpvQrlopF/xrWsbwEorJMHJms\nKHMA3gHG7DT65oVogSShJZcqEp2ilSiVrynEtiN6ot0tKedqmNAu91xZsR+J59wA\nw5JlEhCIOGPkUfHSyO23wN4HrLg4WtHLZyCMgcYu0QKBgQDvN6oW7jGMiyxmjDR/\nWTJp6smxcOXbSBI4QW4ltnEhyXfIN7McibCb87f9EieePYj1x/D3wwVpWcDJuiAt\nB7TrOo5l9pAMKNzgH41/9kGNUj7lue1OX15E9ouA3VHGiThkGwjubN739h1VwyNj\n5O+xWXCThsHYnDT83BvQxNtJEQKBgQDc0MR5utHU0e+mWs2228gsTjovJC32+lcw\n/hM4QhL1nXIoXZtqkyS7WZaucn5YgKHBTQRiD0mif88W1BfMH0Ky+UVCxtj69Wmb\n7zXdc9JmHlbOVx4Jd5IRRFltX8v0t9jN/ARfZ8SichEqzeCuZalK4O9FIsK1Zhyj\nJ/Os47+I2QKBgQCygF/sYmsYy5UjJEXcLSvgOzGrtWnfeeUWk0Rk4cGDi7lU7rM5\nfUkK5g8JyW1Et/gmJr8Zsi2skiu4m6l80H5g9L3jOdv9JtTCbOkCbjg2AwQqGdYJ\nIELQxQQN8ZgexLAOitncR+MNNlpnb4hN9zwgo3PMscaeItmrQXeEDhDvcQKBgAL9\nFFutap+dw8eVnQknilsHKARxUenw03NHTQ1K36TRX7UqJytXGH0spjxwMkOSYh4S\no8eL+2wmnK/raPMLTUTM2OIhfNhQsAA7SZhYs/VL3dLnHPH121U+fpNbY5BJWLbY\n/VopNmEYeCEDLlJN7++igbqG0OnRmvueU874OiRpAoGAQXt6rzevydM94QhKWcLm\nelpiSoqK4YPGkhsVKQ/jB0qd4DCnjJkSZVClCEndx/QU655u0LZIGojsSR+d+r7e\nQ+d/SA+qoXGKTiPGx46LwTa7LZ2MmBMJOW71ult5+4qytftIcVabqi5//TEPXr/2\nNteEn4ld4RclZ9Num6O+afs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dinner-party@dinner-party-25-05.iam.gserviceaccount.com",
+  "client_id": "104760580914260255856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dinner-party%40dinner-party-25-05.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
